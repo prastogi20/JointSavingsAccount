@@ -7,6 +7,10 @@ Please refer the video below for compiling and deploying JointSavings smart cont
 
 
 
+https://user-images.githubusercontent.com/105999167/201769922-a5069211-f888-46d5-95ba-b56328e9f752.mov
+
+
+
 
 ## Functionality test
 
